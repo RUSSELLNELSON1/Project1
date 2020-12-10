@@ -73,7 +73,7 @@ These Beats allow us to collect the following information from each machine:
 ### Using the Playbook
 SSH into the control node and follow the steps below:
 - Copy the Instal-Elk.yml file to /etc/ansible.
-- Update the host file to include server admin iip’s and hosts.
+- Update the host file to include server admin ip’s and hosts.
 - Run the playbook and navigate to the web servers to check that the installation worked as expected.
 -Install -elk.yml and put in /etc/ansible folder
 -Use file /etc/ansible/hosts to update the ip addresses to be installed with that playbook as well as which machine. 
