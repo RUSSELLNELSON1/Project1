@@ -55,7 +55,7 @@ The playbook implements the following tasks:
 -Make published ports available. 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
- 
+![ElkServer sudo_docker-ps caprture](https://user-images.githubusercontent.com/67285616/101830451-c1547880-3af1-11eb-825a-8c06aff6f428.png)
 
 
 ### Target Machines & Beats
